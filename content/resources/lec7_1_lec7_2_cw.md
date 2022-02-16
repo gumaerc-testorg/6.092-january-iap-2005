@@ -5,8 +5,13 @@ description: 'Lecture presentation covering the following topics: robotic automa
   bioinformatics, representation, adjacency matrix, networks, types, hubs, application:
   protein-protein interactions, case study: lethality and centrality for yeast proteins,
   meta-database steps, visualizations of interactions, and the human massome.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-092-bioinformatics-and-proteomics-january-iap-2005/d5932ba19b98863e2c73f7b887f79118_lec7_1_lec7_2_cw.pdf
+file: /media/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/d5932ba19b98863e2c73f7b887f79118_lec7_1_lec7_2_cw.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec7_1_lec7_2_cw.pdf
 uid: d5932ba1-9b98-863e-2c73-f7b887f79118
