@@ -41,9 +41,9 @@ Introduction to Bioinformatics Laboratory / Bioinformatics in the Computer Indus
   
 _Supporting Files  
   
-_clusterdata.dat ([DAT](/courses/electrical-engineering-and-computer-science/6-092-bioinformatics-and-proteomics-january-iap-2005/lecture-notes/clusterdata.dat))  
+_clusterdata.dat ([DAT]({{< baseurl >}}/resources/clusterdata))  
   
-clusterexample.m ([M](/courses/electrical-engineering-and-computer-science/6-092-bioinformatics-and-proteomics-january-iap-2005/lecture-notes/clusterexample.m))
+clusterexample.m ([M]({{< baseurl >}}/resources/clusterexample))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d0be52ff-8098-19cd-2d6f-2f443aed921c
 resourcetype: Document
 title: iap_cours_lec2_1.pdf
 uid: bd131543-6930-89e1-7e19-ec1bc65ff624

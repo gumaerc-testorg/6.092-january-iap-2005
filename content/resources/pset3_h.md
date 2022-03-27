@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 7bd9d252-6159-9beb-330f-0525cf7fe294
 resourcetype: Document
 title: pset3_h.pdf
 uid: be6170f9-9728-8c9c-fab4-902ce6f7d025
