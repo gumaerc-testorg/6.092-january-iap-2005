@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: his section lists the lecture topics covered in the course along with
+  the labs out and due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: bc51680f-1524-8190-aaa6-26c414f8605b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

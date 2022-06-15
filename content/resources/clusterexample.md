@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lecture 1, and contains program
   code.
-file: /media/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/1ed18f670fecac0357456b7ecdf4f996_clusterexample.m
+file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/1ed18f670fecac0357456b7ecdf4f996_clusterexample.m
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Other
 title: clusterexample.m
 uid: 1ed18f67-0fec-ac03-5745-6b7ecdf4f996
 ---
+This resource is a supporting file for lecture 1, and contains program code.
+
