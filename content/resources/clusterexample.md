@@ -6,6 +6,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/1ed18f670fec
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: clusterexample.m
 uid: 1ed18f67-0fec-ac03-5745-6b7ecdf4f996
 ---
 This resource is a supporting file for lecture 1, and contains program code.
-

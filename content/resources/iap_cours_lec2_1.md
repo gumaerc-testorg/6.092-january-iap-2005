@@ -7,6 +7,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/bd1315436930
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: course administration, background, review part I, splicing, sequence analysism, bioinformatics: trends, tools, and databases, and human genome project.
-

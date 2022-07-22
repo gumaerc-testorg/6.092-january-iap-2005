@@ -6,6 +6,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/8525811ed298
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: readme.txt
 uid: 8525811e-d298-5897-321b-30b6de92d37a
 ---
 This is a supporting file for lab 1, and contains instructions to use the provided xls file.
-

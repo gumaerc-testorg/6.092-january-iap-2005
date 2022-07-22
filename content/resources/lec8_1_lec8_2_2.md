@@ -8,6 +8,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/c370340e7bae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: cross-correlation, poisson, negative binomial, gamma distribution, HST's chip, sequence databases, Entrez, blast, protien structure, microarray database, protien interactions, and integration databases.
-

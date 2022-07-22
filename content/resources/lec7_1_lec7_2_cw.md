@@ -9,6 +9,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/d5932ba19b98
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation covering the following topics: robotic automation, organization: levels of abstraction, proteomics: a definition, paradigm shifts in bioinformatics, representation, adjacency matrix, networks, types, hubs, application: protein-protein interactions, case study: lethality and centrality for yeast proteins, meta-database steps, visualizations of interactions, and the human massome.
-

@@ -5,6 +5,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/3c38ca0c1dee
 file_type: application/msword
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for lab 1.
-

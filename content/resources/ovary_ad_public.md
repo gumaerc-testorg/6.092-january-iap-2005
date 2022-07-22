@@ -5,6 +5,7 @@ file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/c252ea9c5be3
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 The ZIP file contains: ovary_AD_public.xls.
-
