@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides information on software, some useful information
+  on MATLAB?, looking up papers and others.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 3a723028-113a-c719-211f-afbb414f8b45
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Software

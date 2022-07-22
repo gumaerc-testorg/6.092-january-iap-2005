@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The syllabus contains an overview of credits/hours, prerequisites, list
+  of speakers, and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d848cbee-63b8-be01-340c-913de9dbc2df
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -24,11 +32,11 @@ Winter 2005
 Student Prerequisites
 ---------------------
 
-[7.012](/courses/7-012-introduction-to-biology-fall-2004/) or equivalent recommended
+[7.012](/courses/7-012-introduction-to-biology-fall-2004) or equivalent recommended
 
-[6.003](/courses/6-003-signals-and-systems-fall-2011/) or equivalent recommended
+[6.003](/courses/6-003-signals-and-systems-fall-2011) or equivalent recommended
 
-[6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) or equivalent recommended
+[6.041](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010) or equivalent recommended
 
 Course Directors
 ----------------
