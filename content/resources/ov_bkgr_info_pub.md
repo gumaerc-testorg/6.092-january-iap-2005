@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for lab 1.
 file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/3c38ca0c1dee3364e0a32379722aa2d2_ov_bkgr_info_pub.xls
+file_size: 29696
 file_type: application/msword
 learning_resource_types:
 - Labs
