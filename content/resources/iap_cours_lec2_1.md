@@ -4,6 +4,7 @@ description: 'Lecture presentation covering the following topics: course adminis
   background, review part I, splicing, sequence analysism, bioinformatics: trends,
   tools, and databases, and human genome project.'
 file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/bd131543693089e17e19ec1bc65ff624_iap_cours_lec2_1.pdf
+file_size: 1479810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
