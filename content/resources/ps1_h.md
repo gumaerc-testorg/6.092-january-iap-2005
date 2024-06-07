@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions of 2 problems from lab assignment 1.
 file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/0378aeaa22b89cb3f45a24972987c815_ps1_h.pdf
+file_size: 135171
 file_type: application/pdf
 learning_resource_types:
 - Labs

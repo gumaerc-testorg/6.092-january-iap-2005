@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: cross-correlat
   Entrez, blast, protien structure, microarray database, protien interactions, and
   integration databases.'
 file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/c370340e7bae8bcb623ae24fe676febb_lec8_1_lec8_2_2.pdf
+file_size: 1460695
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
