@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 4 problems based on human DNA.
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/0794329fbc5254d844b004bf710284a8_pset2_3_o.pdf
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/0794329fbc5254d844b004bf710284a8_pset2_3_o.pdf
 file_size: 194931
 file_type: application/pdf
 learning_resource_types:

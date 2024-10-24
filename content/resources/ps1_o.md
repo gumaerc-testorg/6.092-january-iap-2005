@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 2 problems based on protein sequence.
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/6742c18236f60992238331eca81c3717_ps1_o.pdf
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/6742c18236f60992238331eca81c3717_ps1_o.pdf
 file_size: 64157
 file_type: application/pdf
 learning_resource_types:
