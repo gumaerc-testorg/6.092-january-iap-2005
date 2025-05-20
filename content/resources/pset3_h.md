@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions of 4 problems from lab assignment 2.
-file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/be6170f997288c9cfab4902ce6f7d025_pset3_h.pdf
+file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/be6170f997288c9cfab4902ce6f7d025_pset3_h.pdf
 file_size: 95796
 file_type: application/pdf
 learning_resource_types:
