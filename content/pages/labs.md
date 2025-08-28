@@ -3,7 +3,7 @@ content_type: page
 description: This section lists the labs notes with their solutions along with some
   supporting files.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 7bd9d252-6159-9beb-330f-0525cf7fe294
