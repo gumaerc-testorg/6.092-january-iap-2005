@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting data file for lecture 1.
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/252321a95e4cc61e6e6bbbd8308b9f24_clusterdata.dat
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/252321a95e4cc61e6e6bbbd8308b9f24_clusterdata.dat
 file_size: 782
 file_type: text/plain
 learning_resource_types:

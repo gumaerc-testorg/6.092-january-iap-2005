@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: ovary_generank_allgenes_public-descriptions.xls.'
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/fc40c2cfded05ce031a402b77929c79e_ov_ge_all_puc_de.zip
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/fc40c2cfded05ce031a402b77929c79e_ov_ge_all_puc_de.zip
 file_size: 1693990
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

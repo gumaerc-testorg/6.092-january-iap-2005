@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Solutions of 4 problems from lab assignment 3.
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/41fcf5acec509e4a6ba2a862a5079a51_ps2_h.pdf
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/41fcf5acec509e4a6ba2a862a5079a51_ps2_h.pdf
 file_size: 92127
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

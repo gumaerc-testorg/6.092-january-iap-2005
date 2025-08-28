@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: ovary_AD_public.xls.'
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/c252ea9c5be3d6b6a3f6c2824cb7acd5_ovary_AD_public.zip
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/c252ea9c5be3d6b6a3f6c2824cb7acd5_ovary_AD_public.zip
 file_size: 4343849
 file_type: application/zip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
