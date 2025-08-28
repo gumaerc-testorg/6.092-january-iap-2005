@@ -2,11 +2,11 @@
 content_type: resource
 description: This is a supporting file for lab 1, and contains data to complete the
   lab.
-file: /courses/6-092-bioinformatics-and-proteomics-january-iap-2005/ad43c4aa99ce884aa190fc8b094fc41f_ovary_AD_public.txt
+file: /ol-ocw-studio-app/courses/6-092-bioinformatics-and-proteomics-january-iap-2005/ad43c4aa99ce884aa190fc8b094fc41f_ovary_AD_public.txt
 file_size: 2895587
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
