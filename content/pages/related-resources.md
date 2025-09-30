@@ -15,31 +15,31 @@ video_metadata:
 Software
 --------
 
-Bioinformatics Toolbox User's Guide ([PDF - 2.4 MB](http://www.mathworks.com/access/helpdesk/help/pdf_doc/bioinfo/bioinfo_ug.pdf))
+Bioinformatics Toolbox User's Guide ({{% resource_link "c3fc440b-902f-408e-ae79-c18909bd9fb8" "PDF - 2.4 MB" %}})
 
-Statistics Toolbox User's Guide ([PDF - 5.4 MB](http://www.mathworks.com/access/helpdesk/help/pdf_doc/stats/stats.pdf))
+Statistics Toolbox User's Guide ({{% resource_link "2f45fe27-d82d-4458-aecb-72a016acae96" "PDF - 5.4 MB" %}})
 
 Some Useful Information on MATLAB®
 ----------------------------------
 
-[3-Session MATLAB® Tutorial from MIT](http://www.mit.edu/people/abbe/matlab/main.html)
+{{% resource_link "b97c647b-48c9-477c-8a13-c5d37c94ac33" "3-Session MATLAB® Tutorial from MIT" %}}
 
-[MATLAB® Documentation](https://www.mathworks.com/help/)
+{{% resource_link "f5e64d0a-cc64-43e1-b87d-ec2803a31d74" "MATLAB® Documentation" %}}
 
-[MATLAB® Recorded Webinars](https://www.mathworks.com/videos/search.html?q=&fq=video-external-category:recwebinar%20product:ML&page=1)
+{{% resource_link "6b15f5fe-4b13-4114-833e-961ebf12e34d" "MATLAB® Recorded Webinars" %}}
 
-[MATLAB® Tutorials on Web](https://classes.engineering.wustl.edu/2009/spring/che503/LinksMatlabTutorial.pdf)
+{{% resource_link "e498f7e5-a971-48da-9571-fd59eaf5b476" "MATLAB® Tutorials on Web" %}}
 
-[MATLAB® Central](http://www.mathworks.com/matlabcentral/)
+{{% resource_link "5e30b583-d2a4-4413-ad8f-e8abe42bbdcb" "MATLAB® Central" %}}
 
 Looking up Papers
 -----------------
 
-[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi)
+{{% resource_link "3517193f-203c-49f0-b374-0497c1f90f60" "PubMed" %}}
 
 Others
 ------
 
-[Molecular Biology Dictionary](https://biologydictionary.net/category/molecular-biology/)
+{{% resource_link "b911c0b0-7413-4a57-abda-a0bb62150a48" "Molecular Biology Dictionary" %}}
 
-[Medical Dictionary](http://www.medterms.com/script/main/hp.asp)
+{{% resource_link "25fb9547-a429-4eea-998c-b4507d37ecc7" "Medical Dictionary" %}}
