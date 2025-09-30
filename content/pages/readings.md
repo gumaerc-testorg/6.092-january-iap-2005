@@ -41,7 +41,7 @@ Alterovitz, G., E. Afkhami, and M. Ramoni. "Robotics, Automation, and Statistica
 
 *Introduction to Bioinformatics Laboratory / Bioinformatics in the Computer Industry*
 
-Moormans, M. W. [*Matlab on Athena, Technical Publication AC-71*](http://web.mit.edu/olh/Matlab/TOC.html). Cambridge, MA: Massachusetts Institute of Technology, 2001.
+Moormans, M. W. {{% resource_link "563e70c0-fe15-489e-9bca-b5819e33decc" "*Matlab on Athena, Technical Publication AC-71*" %}}. Cambridge, MA: Massachusetts Institute of Technology, 2001.
 
 Pochet, N., et al. "Systematic benchmarking of microarray data classification: assessing the role of nonlinearity and dimensionality reduction." *Bioinformatics,* 2004.
 
@@ -208,8 +208,8 @@ Oppenheim, A. V., A. S. Willsky, and H. Nawab. *Signals and Systems.* 3rd ed. En
 
 Papoulis, A., and S. U. Pillai. *Probability, Random Variables and Stochastic Processes: Sanitary and Water Resources Engineering (Sanitary & Water Resources Engineering S)*. New York, NY: McGraw-Hill, 2002. ISBN: 0072817259.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/microarrays-integrative-genomics) Kohane, I. S., A. T. Kho, and A. J. Butte. [*Microarrays for an Integrative Genomics*](https://mitpress.mit.edu/books/microarrays-integrative-genomics). Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/microarrays-integrative-genomics), 2002. ISBN: 026211271X.
+{{% resource_link "f7d0e376-d8cd-46f6-8927-422d66bc0c1d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kohane, I. S., A. T. Kho, and A. J. Butte. {{% resource_link "f7d0e376-d8cd-46f6-8927-422d66bc0c1d" "*Microarrays for an Integrative Genomics*" %}}. Cambridge, MA: {{% resource_link "f7d0e376-d8cd-46f6-8927-422d66bc0c1d" "MIT Press" %}}, 2002. ISBN: 026211271X.
 
 ### Links
 
-Hunter, Lawrence. *Introduction to Molecular Biology for the Computer Scientist*. ([PDF](http://tandy.cs.illinois.edu/Hunter_MolecularBiology.pdf))
+Hunter, Lawrence. *Introduction to Molecular Biology for the Computer Scientist*. ({{% resource_link "51f53d75-4fc6-42f4-a48b-16122c9cf5ad" "PDF" %}})
